@@ -1,5 +1,4 @@
-# Hoppies---unorganized-master
-
+# Enduryx
 
 echo "# enduryx" >> README.md
 git init
